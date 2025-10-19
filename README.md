@@ -26,8 +26,8 @@
 <p>
   <samp>
     <b>Let's Connect!</b><br>
-    ├─ 📫 Email: <a href="mailto:tranlamtuananh2003@gmail.com">tranlamtuananh2003@gmail.com</a><br>
-    └─ 💼 LinkedIn: <a href="https://www.linkedin.com/in/kumathy" target="_blank" rel="noopener noreferrer">Anh Tran</a><br>
+    ├─ 💼 LinkedIn: <a href="https://www.linkedin.com/in/kumathy" target="_blank" rel="noopener noreferrer">Anh Tran</a><br>
+    └─ 📫 Email: <a href="mailto:tranlamtuananh2003@gmail.com">tranlamtuananh2003@gmail.com</a><br>
   </samp>
 </p>
 
