@@ -4,11 +4,11 @@
   <samp>
     <b>Currently:</b><br>
     ├─ SDET Intern @ ☁️ <a href="https://sonraisecurity.com/">Sonrai Security</a><br>
-    └─ CS Student @ 🦫 <a href="https://www.unb.ca/">University of New Brunswick</a>
+    └─ CS Student @ 🦫 <a href="https://www.unb.ca/">UNB</a>
     <br><br>
     <b>Previously:</b><br>
-    ├─ Software Engineer Intern @ ☁️ <a href="https://sonraisecurity.com/">Sonrai Security</a><br>
-    └─ Software Developer Intern @ 🎯 <a href="https://www.sprypoint.com/">Sprypoint</a>
+    ├─ SWE Intern @ ☁️ <a href="https://sonraisecurity.com/">Sonrai Security</a><br>
+    └─ Dev Intern @ 🎯 <a href="https://www.sprypoint.com/">Sprypoint</a>
   </samp>
 </p>
 
