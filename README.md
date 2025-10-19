@@ -1,4 +1,4 @@
-<h3>🐻 <samp>Hello Friends! I am <ins>Anh Tran</ins> (aka <b>Kumathy</b>)</samp></h3>
+<h3>🐻 <samp>Hello Friends! I am <ins>Anh Tran</ins></samp></h3>
 
 <p>
   <samp>
