@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3>🐻 <samp>Hello Friends! I am <ins>Anh Tran</ins></samp></h3>
 
-<!--
-**kumathy/kumathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+  <b>currently:</b>
+  <br>
+  - SDET Intern @ ☁️ [Sonrai Security](https://sonraisecurity.com/)
+  <br>
+  - CS student @ 🦫 the [University of New Brunswick](https://www.unb.ca/)
+  <br></br>
+  <b>previously:</b>
+  <br>
+  - Software Engineer Intern @ ☁️ [Sonrai Security](https://sonraisecurity.com/)
+  <br>
+  - Software Developer intern @ 🎯 [Sprypoint](https://www.sprypoint.com/)
+  <br>
+</samp>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
