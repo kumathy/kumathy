@@ -2,11 +2,11 @@
 
 <p>
   <samp>
-    <b>currently:</b><br>
+    <b>Currently:</b><br>
     ├─ SDET Intern @ ☁️ <a href="https://sonraisecurity.com/" target="_blank" rel="noopener noreferrer">Sonrai Security</a><br>
     └─ CS Student @ 🦫 <a href="https://www.unb.ca/" target="_blank" rel="noopener noreferrer">University of New Brunswick</a>
     <br><br>
-    <b>previously:</b><br>
+    <b>Previously:</b><br>
     ├─ Software Engineer Intern @ ☁️ <a href="https://sonraisecurity.com/" target="_blank" rel="noopener noreferrer">Sonrai Security</a><br>
     └─ Software Developer Intern @ 🎯 <a href="https://www.sprypoint.com/" target="_blank" rel="noopener noreferrer">Sprypoint</a>
   </samp>
@@ -22,3 +22,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;└─ At the gym 💪<br>
   </samp>
 </p>
+
+<p>
+  <samp>
+    <b>Let's Connect!</b><br>
+    ├─ 📫 Email: <a href="mailto:tranlamtuananh2003@gmail.com">tranlamtuananh2003@gmail.com</a><br>
+    └─ 💼 LinkedIn: <a href="https://www.linkedin.com/in/kumathy" target="_blank" rel="noopener noreferrer">Anh Tran</a><br>
+  </samp>
+</p>
+
