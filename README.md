@@ -8,7 +8,7 @@
     <br><br>
     <b>Previously:</b><br>
     ├─ SWE Intern @ ☁️ <a href="https://sonraisecurity.com/">Sonrai Security</a><br>
-    └─ Dev Intern @ 🎯 <a href="https://www.sprypoint.com/">Sprypoint</a>
+    └─ SDE Intern @ 🎯 <a href="https://www.sprypoint.com/">Sprypoint</a>
   </samp>
 </p>
 
