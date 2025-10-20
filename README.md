@@ -13,7 +13,7 @@
     <b>About Me:</b><br>
     ├─ I am learning Cloud ☁️ and Frontend 🎨 (check out my recent <a href="https://kumathy.github.io/react-projects/quizzical/">project</a>!) <br>
     └─ When not coding, you'll find me: <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;├─ At fighting game events 🕹️ <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;├─ At fighting game locals 🕹️ <br>
     &nbsp;&nbsp;&nbsp;&nbsp;├─ Bouldering 🧗‍♂️<br>
     &nbsp;&nbsp;&nbsp;&nbsp;└─ At the gym 💪<br>
   </samp>
